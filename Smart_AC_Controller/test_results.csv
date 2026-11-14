@@ -1,0 +1,10 @@
+Temperature,Humidity,Fan Speed,Fan Category
+18,25,15.56,Slow
+22,40,16.89,Slow
+25,55,41.67,Moderate
+28,45,50.0,Moderate
+30,60,50.0,Moderate
+32,75,66.62,Moderate
+35,40,72.96,Fast
+40,65,83.46,Fast
+44,95,84.44,Fast

@@ -1,0 +1,5 @@
+Time,Temperature,Humidity,Target,Fan Speed,Mode
+14:51:35,30.0,60.0,24.0,50.0,Moderate
+14:52:41,39.0,40.0,24.0,83.11,Fast
+14:54:53,19.0,70.0,24.0,17.62,Slow
+22:34:08,40.0,60.0,20.0,84.44,Fast
